@@ -1,2 +1,4 @@
-# text-classification
-while learning neural networks i went through the text-classification via neural networks
+# face_swap_alternate
+i have been learning deepfake for a long time and this is what i came with .its not good but this is the best so far
+
+install all the requirements and opencv
